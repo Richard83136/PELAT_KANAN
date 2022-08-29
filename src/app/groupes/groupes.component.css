@@ -1,0 +1,15 @@
+.equipe{
+  background-color: blanchedalmond;
+  padding-top: 5%;
+  text-align: center;
+  padding-bottom: 30%;
+}
+p{
+  font-size: 14px;
+  text-align: justify;
+  font-weight: bold;
+}
+span{
+  color:rgb(67, 67, 80);
+}
+
